@@ -183,15 +183,17 @@ GEMINI_API_KEY=your_actual_gemini_api_key
 ```bash
 cd client
 npm run build
-# Deploy the 'build' folder to your hosting service
+
 ```
 
 ### Backend Deployment
 ```bash
 cd server
 npm run build
-# Deploy the 'dist' folder to your server
+
 ```
+
+Deployment Link - https://project-management-38df.vercel.app/
 
 ## 🤝 Contributing
 
@@ -201,6 +203,4 @@ npm run build
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-# Deployment
 
-Deployment Link - https://project-management-38df.vercel.app/
