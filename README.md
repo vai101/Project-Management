@@ -201,24 +201,6 @@ npm run build
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+# Deployment
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Google Gemini AI** for powerful AI capabilities
-- **React Community** for excellent documentation
-- **Styled Components** for beautiful styling
-- **MongoDB** for reliable data storage
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/your-repo/issues) page
-2. Create a new issue with detailed description
-3. Include error messages and steps to reproduce
-
----
-
-**Built with ❤️ using React, Node.js, and AI**
+Deployment Link - https://project-management-38df.vercel.app/
